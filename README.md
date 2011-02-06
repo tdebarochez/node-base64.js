@@ -1,6 +1,8 @@
 Readme
 ------
 
+**Deprecated module, use [Buffer API](http://nodejs.org/docs/v0.3.7/api/buffers.html) instead**
+
 This lib expose two useful functions :
 
     base64.encode();
